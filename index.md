@@ -9,9 +9,9 @@ I am an enthusiastic undergraduate at UC Berkeley studying computer science and 
 
 For more informationa about me see [My Linkedin](https://www.linkedin.com/in/justinwu25/).
 
-### Jekyll Themes
+### This website is a work in progress
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j25wu/j25wu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Stay tuned!
 
 ### Contact
 
