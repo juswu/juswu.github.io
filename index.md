@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Justin Wu's Personal Page
 
-You can use the [editor on GitHub](https://github.com/j25wu/j25wu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Created in SP22 for UC Berkeley's CS198: The Missing Semester of Your CS Education
 
 ### Markdown
 
