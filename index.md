@@ -15,5 +15,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-[Linkedin](https://www.linkedin.com/in/justinwu25/)
-[Email](jwu25@berkeley.edu)
+- [Linkedin](https://www.linkedin.com/in/justinwu25/)
+- [Email](jwu25@berkeley.edu)
